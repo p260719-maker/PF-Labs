@@ -1,2 +1,2 @@
 # PF-Labs
-Full Name Junaid Zafar Your Student Roll Number (e.g., 26P-0000) ▶ Your Section (e.g., CS-A) and Instructor Name
+Full Name Junaid Zafar , Roll Number : 26P-0719 Section AI-A Instructor Name : Muhammad Aais Rabbani
